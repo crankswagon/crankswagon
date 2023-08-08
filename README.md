@@ -1,17 +1,17 @@
 
 <div align="center" style="text-align:center">
-    <a href="#" onclick="return false;">
+<!--     <a href="#" onclick="return false;">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=crankswagon&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
             alt="crankswagon's stats">
-    </a>
+    </a> -->
     <a href="#" onclick="return false;">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crankswagon&theme=vue&background=0000&hide_border=true"
             alt="crankswagon's commit streak">
     </a>
-    <a href="#" onclick="return false;">
+<!--     <a href="#" onclick="return false;">
         <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crankswagon&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
             alt="crankswagon's language stats">
-    </a>
+    </a> -->
     <br></br>
     <div>
     <a href="https://aws.amazon.com/"><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></a>
